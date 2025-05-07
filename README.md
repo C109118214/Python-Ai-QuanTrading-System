@@ -6,7 +6,7 @@ Python AI自動分析量化交易系統
 # 初階流程圖
 ![image](https://github.com/user-attachments/assets/592c8166-d8f7-44f9-bd08-8276fcba9dcb)
 
-#程式流程圖
+# 程式流程圖
 ![image](https://github.com/user-attachments/assets/ce87839e-a2e5-44b0-b445-c00108a2d3d2)
 
 # 400dpi畫質調整
